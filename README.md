@@ -8,13 +8,10 @@ Built a scalable real-time messaging application using the MERN stack and Socket
 
 
 
- * <img width="681" height="901" alt="image" src="https://github.com/user-attachments/assets/5bf6e71e-80a4-4f57-9272-22a14e9f3533" />
- * <img width="666" height="900" alt="image" src="https://github.com/user-attachments/assets/4a63f444-f702-4a8f-8ba2-5e0a31c0e999" />
- * <img width="702" height="905" alt="image" src="https://github.com/user-attachments/assets/03845ec1-b159-45fb-a83d-78e5abc92573" />
- * <img width="1182" height="930" alt="image" src="https://github.com/user-attachments/assets/ceab9345-e5a9-4e7b-961e-b0297da74319" />
-
-
-
+ * <img width="320"  alt="image" src="https://github.com/user-attachments/assets/5bf6e71e-80a4-4f57-9272-22a14e9f3533" />
+ * <img width="320" alt="image" src="https://github.com/user-attachments/assets/4a63f444-f702-4a8f-8ba2-5e0a31c0e999" />
+ * <img width="320" alt="image" src="https://github.com/user-attachments/assets/03845ec1-b159-45fb-a83d-78e5abc92573" />
+ * <img width="320" alt="image" src="https://github.com/user-attachments/assets/ceab9345-e5a9-4e7b-961e-b0297da74319" />
 
 ---
 
