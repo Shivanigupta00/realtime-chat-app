@@ -95,10 +95,10 @@ Follow these steps to run the project locally:
     npm run dev
     ```
 ## 🔒 Security
-🔑 **Passwords are securely hashed using Bcrypt.js.**
-🛡️ **Handled secure user sessions with JWT-based Authentication.**
-🙈 **Sensitive credentials are strictly stored in .env configurations.**
-🚫 **Environment variables are explicitly excluded from Git version control using .gitignore.**
+* 🔑 **Passwords are securely hashed using Bcrypt.js.**
+* 🛡️ **Handled secure user sessions with JWT-based Authentication.**
+* 🙈 **Sensitive credentials are strictly stored in .env configurations.**
+* 🚫 **Environment variables are explicitly excluded from Git version control using .gitignore.**
    
 
  ## 👩‍💻 Author
